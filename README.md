@@ -7,7 +7,7 @@ SATT was built to simplify student life by keeping all assignments in one access
 ---
 
 ## 🚀 Live Demo
-🔴 **Experience the app here:** [https://student-tasks-tracker.vercel.app/]
+🔴 **Experience the app here:** https://student-tasks-tracker.vercel.app/
 
 ---
 
@@ -65,7 +65,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/MSaifUdDin-999/Student_Assignment_Test_Tracker.git](https://github.com/MSaifUdDin-999/Student_Assignment_Test_Tracker.git)
+git clone https://github.com/MSaifUdDin-999/Student_Assignment_Test_Tracker.git
 
 ```
 
