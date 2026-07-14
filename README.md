@@ -1,4 +1,4 @@
-# SATT – Student Assignment📅📚 & Task Tracker📊✅
+# SATT📅 – Student Assignment📚 & Task Tracker📊
 
 > A modern, component-driven React application for managing academic deadlines, tracking subject-wise progress, and organizing daily tasks.
 
